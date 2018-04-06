@@ -1,0 +1,12 @@
+{
+ "manifest_version": 2,
+ "name": "Tell Time for AFSS",
+ "description": "AFSS Small Plugin",
+ "version": "1.0",
+
+"browser_action": {
+ "default_icon": "time.png",
+ "default_popup": "popup.html",
+ "default_title": "Time/UTC"
+ }
+}
